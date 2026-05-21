@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuyKhoiCoder30062004 - Khôi
+- 👋 Hi, I’m @DuyKhoiCoder30062004 - Anh Khôi
 - 👀 I’m interested in Web Development, Software Development (in General) and also some of AI development practices.
 - 🌱 I’m currently learning JavaScript,C#,Java,Python and other Linux Scripting Languages. (Also some of my Cisco Packet Tracer Applications I learn at University).
 - 📫 How to reach me: FACEBOOK: https://www.facebook.com/profile.php?id=100011950818490
