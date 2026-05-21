@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DuyKhoiCoder30062004 - Khôi
 - 👀 I’m interested in Web Development, Software Development (in General) and also a tiny bit of AI development (Which I am still learning at University).
 - 🌱 I’m currently learning JavaScript,C#,Java,Python and other Linux Scripting Languages. (Also some of my Cisco Packet Tracer Applications I learn at University).
-- 📫 How to reach me: FACEBOOK: https://www.facebook.com/profile.php?id=100011950818490,..(More Coming soon...)
-- ⚡ Fun fact: I post projects on Github for fun, hobbies, schools, University's tasks,..
+- 📫 How to reach me: FACEBOOK: https://www.facebook.com/profile.php?id=100011950818490
+- 📫 Phone number: (+84)915 62 1219
+- 📫 Email address: anhkhoi.bo@gmail.com
+- ⚡ What i do: I post projects on Github for fun, hobbies, schools, University's tasks,..
 
 <!---
 DuyKhoiCoder30062004/DuyKhoiCoder30062004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
