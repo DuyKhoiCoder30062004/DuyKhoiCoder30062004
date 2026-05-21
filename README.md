@@ -5,7 +5,8 @@
 - 📫 Linkedin: https://www.linkedin.com/in/khoi-duy-a2812a24a
 - 📫 Phone number: (+84)915 62 1219
 - 📫 Email address: anhkhoi.bo@gmail.com
-- ⚡ What i do: I post projects on Github for fun, hobbies, schools, University's tasks,..
+- ⚡ What i do: I post projects on Github for fun, hobbies, schools, University's tasks, work,etc
+- ⚡ Outside worktime: I value taking a walk outdoor, going swimming, jamming to music, playing guitar,etc
 
 <!---
 DuyKhoiCoder30062004/DuyKhoiCoder30062004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
